@@ -7,7 +7,9 @@ body{
 .name{
     font-family: sans-serif;
     text-align:center;
-    padding:3%;
+    padding-left:5%;
+    font-size:xx-large;
+    padding-top:3%;
 }
 .main{
     background-color:whitesmoke;
@@ -21,5 +23,12 @@ button{
     color:white;
     font: 20%;
     padding:2%;
-    margin:5% 40%;
+    margin-left:45%;
+    margin-bottom:2%;
+}
+img{
+    width:25%;
+    padding:2% 40%;
+    border-radius: 50%;
+    margin-top:1%;
 }
