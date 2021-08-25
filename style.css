@@ -1,6 +1,10 @@
 body{
     margin:0%;
     padding:0%;
-    background-color:bisque;
+    background-color:#E6E6FA;
 }
 
+.name{
+    font-family: sans-serif;
+    align:center;
+}
