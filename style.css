@@ -1,10 +1,18 @@
 body{
     margin:0%;
     padding:0%;
-    background-color:#E6E6FA;
+    background-color:#ADD8E6  ;
 }
 
 .name{
     font-family: sans-serif;
-    align:center;
+    text-align:center;
+    padding:3%;
+}
+.main{
+    background-color:whitesmoke;
+    width:50%;
+    height:50%;
+    margin:10% 25%;
+    border-radius:10%;
 }
