@@ -38,3 +38,8 @@ p{
     font-family: sans-serif;
     padding:1%;
 }
+
+.icon{
+    width:5%;
+    display:inline-block;    
+}
