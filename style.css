@@ -23,7 +23,7 @@ button{
     color:white;
     font: 20%;
     padding:2%;
-    margin-left:45%;
+    margin-left:40%;
     margin-bottom:2%;
 }
 .my-pic{
@@ -41,7 +41,6 @@ p{
 
 img{
     display:inline-block;
-    width:5%;
-    margin-top:2%;
+    width:3%;
     padding:2% 3%;
 }
